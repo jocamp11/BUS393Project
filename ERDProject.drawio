@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-05T20:18:49.927Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="gnYv1pHuNgyaTcpw2VrV" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-05T20:22:21.338Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="FD5YOypr7Lp27l4IIS6K" version="21.2.7" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2283" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -590,6 +590,21 @@
         </mxCell>
         <mxCell id="oXZxkqRxfTg1j08WPur6-148" value="Works on" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="309" y="2070" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oXZxkqRxfTg1j08WPur6-149" value="Is Sold" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1970" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oXZxkqRxfTg1j08WPur6-150" value="Sold By" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="375.5" y="1920" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oXZxkqRxfTg1j08WPur6-151" value="Buys" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1940" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oXZxkqRxfTg1j08WPur6-152" value="Serviced" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oXZxkqRxfTg1j08WPur6-153" value="Used" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2210" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
