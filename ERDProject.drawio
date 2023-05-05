@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-05T00:23:53.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="lO2N4CG9VICGLMlTfR-q" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-05T00:39:46.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="FcQFdqGg1s3FfZac01xF" version="21.2.7" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1433" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -320,6 +320,30 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="340" y="210" as="sourcePoint" />
             <mxPoint x="440" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oXZxkqRxfTg1j08WPur6-84" value="&lt;b&gt;ERD Customer Preferences&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="680" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oXZxkqRxfTg1j08WPur6-85" value="&lt;b&gt;ERD Sales Invoice&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="343" y="1110" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oXZxkqRxfTg1j08WPur6-86" value="&lt;b&gt;ERD Service Invoice&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335" y="1220" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oXZxkqRxfTg1j08WPur6-87" value="&lt;b&gt;Purchase Order&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="358" y="830" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oXZxkqRxfTg1j08WPur6-88" value="Customer" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="230" y="750" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oXZxkqRxfTg1j08WPur6-89" value="&lt;div&gt;Preferences&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="508" y="750" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oXZxkqRxfTg1j08WPur6-90" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oXZxkqRxfTg1j08WPur6-88" target="oXZxkqRxfTg1j08WPur6-89">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="343" y="850" as="sourcePoint" />
+            <mxPoint x="443" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
